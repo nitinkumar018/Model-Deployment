@@ -7,5 +7,5 @@
 ## Deploy model on Heroku using Flask: (https://github.com/nitinkumar018/Model-Deployment-on-Heroku-Using-Flask)
 ## Deploy model on Azure using Flask: (https://github.com/nitinkumar018/Model-Deployment-on-Azure-Using-Flask)
 ## Deploy model using gradio: (https://github.com/nitinkumar018/Project-Image-Classification-CNN-)
-## Deploy rasa chatbot on anaconda prompt: (https://github.com/nitinkumar018/LLM-Chatbot-development-using-Rasa)
+## Deploy rasa chatbot on anaconda prompt: (https://github.com/nitinkumar018/LLM-Chatbot-development-using-Rasa_AI)
 
