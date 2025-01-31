@@ -9,4 +9,5 @@
 ## Deploy model using gradio: (https://github.com/nitinkumar018/Project-Image-Classification-CNN-)
 ## Deploy rasa chatbot on anaconda prompt: (https://github.com/nitinkumar018/Chatbot-development-using-Rasa)
 ## Deploy advanced rasa chatbot with chatgpt-4 on anaconda prompt: (https://github.com/nitinkumar018/Advanced-Rasa-chatbot-with-ChatGPT) 
+## Deploy deepseek-r1 (LLM model) using Ollama on command prompt: (https://github.com/nitinkumar018/LLM-deepseek-r1-using-Ollama)
 
