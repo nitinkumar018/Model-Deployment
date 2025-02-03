@@ -1,4 +1,4 @@
-# Model-Deployment
+# Model-Deployment 
 ## Deploy model using streamlit: 
 1. https://github.com/nitinkumar018/Deployment_Logistic-Regression-Model
 2. https://github.com/nitinkumar018/Deployment_SVM-model
