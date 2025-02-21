@@ -3,7 +3,10 @@
 1. https://github.com/nitinkumar018/Deployment_Logistic-Regression-Model
 2. https://github.com/nitinkumar018/Deployment_SVM-model
 3. https://github.com/nitinkumar018/Deployment_DecisionTree
-## Deploy model using flask: (https://github.com/nitinkumar018/Deployment-flask) 
+## Deploy model using flask: 
+1. https://github.com/nitinkumar018/Deployment-flask
+2. https://github.com/nitinkumar018/Detection-of-Phishing-Websites-Using-ML
+3. https://github.com/nitinkumar018/AutoGen
 ## Deploy model on Heroku using Flask: (https://github.com/nitinkumar018/Model-Deployment-on-Heroku-Using-Flask)
 ## Deploy model on Azure using Flask: (https://github.com/nitinkumar018/Model-Deployment-on-Azure-Using-Flask)
 ## Deploy model using gradio: (https://github.com/nitinkumar018/Project-Image-Classification-CNN-)
